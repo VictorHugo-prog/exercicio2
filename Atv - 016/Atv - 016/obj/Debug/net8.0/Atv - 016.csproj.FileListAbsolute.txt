@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 016\Atv - 016\bin\Debug\net8.0\Atv - 016.exe
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 016\Atv - 016\bin\Debug\net8.0\Atv - 016.deps.json
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 016\Atv - 016\bin\Debug\net8.0\Atv - 016.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 016\Atv - 016\bin\Debug\net8.0\Atv - 016.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 016\Atv - 016\bin\Debug\net8.0\Atv - 016.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 016\Atv - 016\obj\Debug\net8.0\Atv - 016.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 016\Atv - 016\obj\Debug\net8.0\Atv - 016.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 016\Atv - 016\obj\Debug\net8.0\Atv - 016.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 016\Atv - 016\obj\Debug\net8.0\Atv - 016.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 016\Atv - 016\obj\Debug\net8.0\Atv - 016.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 016\Atv - 016\obj\Debug\net8.0\refint\Atv - 016.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 016\Atv - 016\obj\Debug\net8.0\Atv - 016.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 016\Atv - 016\obj\Debug\net8.0\Atv - 016.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 016\Atv - 016\obj\Debug\net8.0\ref\Atv - 016.dll

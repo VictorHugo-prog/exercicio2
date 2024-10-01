@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 014\Atv - 014\obj\Debug\net8.0\Atv - 014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 014\Atv - 014\obj\Debug\net8.0\Atv - 014.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 014\Atv - 014\obj\Debug\net8.0\Atv - 014.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 014\Atv - 014\obj\Debug\net8.0\Atv - 014.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 014\Atv - 014\bin\Debug\net8.0\Atv - 014.exe
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 014\Atv - 014\bin\Debug\net8.0\Atv - 014.deps.json
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 014\Atv - 014\bin\Debug\net8.0\Atv - 014.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 014\Atv - 014\bin\Debug\net8.0\Atv - 014.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 014\Atv - 014\bin\Debug\net8.0\Atv - 014.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 014\Atv - 014\obj\Debug\net8.0\Atv - 014.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 014\Atv - 014\obj\Debug\net8.0\refint\Atv - 014.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 014\Atv - 014\obj\Debug\net8.0\Atv - 014.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 014\Atv - 014\obj\Debug\net8.0\Atv - 014.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios introdutorios c# - parte 2\Atv - 014\Atv - 014\obj\Debug\net8.0\ref\Atv - 014.dll
